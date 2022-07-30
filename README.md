@@ -1,4 +1,4 @@
-<img src="assets/img/sticker-Erika.jpg" alt="sticker" width="350" height="380"/>
+<img src="assets/img/sticker-Erika.jpg" alt="sticker" width="350"/>
 
 ## 👋 Hi there, I'm Erika! You can tell me Eri. 🤓
 
