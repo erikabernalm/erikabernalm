@@ -8,3 +8,6 @@ Programming student and Bachelor of Biology with Emphasis in Environmental Educa
 
 ## ✨ Find me in other places
 ....
+
+
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erika-nathaly-bernal-morales/)
